@@ -1,4 +1,4 @@
-# Spring cloud config server,  vault example - POC for BlackKnight
+# spring cloud config server, using Hashicorp vault example - POC for BlackKnight
 
 ## Step 1
 
