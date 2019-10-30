@@ -1,4 +1,4 @@
-# Spring Cloud Config Vault Sample
+# Spring cloud config server,  vault example - POC for BlackKnight
 
 ## Step 1
 
